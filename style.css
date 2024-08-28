@@ -1,0 +1,48 @@
+body{
+    text-align: center;
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+
+.btn{
+    border: 5px solid black;
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    margin: 6px;
+}
+
+.red{
+    background-color: red;
+}
+
+.green{
+    background-color: green;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.flashRed{
+    background-color: pink;
+}
+
+.flashGreen{
+    background-color: lightgreen;
+}
+
+.flashBlue{
+    background-color: lightblue;
+}
+
+.flashYellow{
+    background-color: wheat;
+}
